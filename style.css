@@ -1,0 +1,122 @@
+body{
+    background-color:rgb(17, 21, 43);
+ 
+}
+
+.titre{
+    color:rgb(17, 21, 43);
+    font-family:Lucida Sans;
+    margin-left: 90px;
+    text-shadow: 2px 2px 5px #5c90ad;
+    
+}
+.part1{
+    margin-top: 6%;
+    
+}
+
+.legend1{
+    color: #308BC0;
+    font-family: verdana;
+    font-size:90%;
+    
+}
+fieldset {
+    
+    margin-bottom:10px;
+    border:2px solid #85c6e4;
+    border-radius:3px;
+}
+input, textarea, select, option {
+        background-color:#308BC0;
+}
+input, textarea {
+            padding:3px;
+            border:1px solid #98d9f7;
+            border-radius:5px;
+            
+            
+}
+
+::placeholder {
+    color: rgb(241, 238, 228);
+}
+
+label {
+    color: rgb(17, 21, 43);
+    font-family: Gill Sans Nova;
+}
+
+
+.centre{
+    position:absolute;
+    display:block;
+   
+    background-color:rgb(241, 238, 228);
+    height:700px;
+    width:500px;
+    margin-top:1.5%;
+    margin-left: 300px;
+    border-radius:4px;
+    
+}
+.photojun1{
+    
+    position:absolute;
+    margin-top:6%;
+    margin-left: 750px;
+    width:35%;
+    height:500px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    
+}
+.photojun2{
+    
+    position:absolute;
+    margin-top:6%;
+    margin-left:140px;
+    width:160px;
+    height:500px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    
+}
+.boutton{
+    display:block;
+    margin:auto
+}
+.image{
+    
+    margin-left: 60px;
+}
+.logo{
+    position:absolute;
+    width:10px;
+    height: 10px;
+    
+    margin-left:200px
+    
+    
+}
+.fb{
+    width:40px;
+    height: 40px;
+    margin-top:2300%;
+    border-radius: 50%;
+    opacity: 0.8;
+    
+    
+}
+.in{
+    width:40px;
+    height: 40px;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+.web{
+    width:40px;
+    height: 40px;
+    border-radius: 50%;
+    opacity: 0.8;
+}
