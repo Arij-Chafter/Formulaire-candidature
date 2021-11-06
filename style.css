@@ -86,14 +86,14 @@ label {
 .boutton{
     display:block;
     margin:auto;
-    
     font-family:Gill Sans Nova;
     font-size:15px;
     background-color:rgb(26, 31, 63);
     color:rgb(228, 234, 241);
     width:200px;
     height:30px;
-    border-radius: 5px;}
+    border-radius: 5px;
+}
 
 
 .image{
